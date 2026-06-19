@@ -6,12 +6,12 @@
 
 
 ## 🚀 About Me
-*🌱 Currently mastering **Data Science**.
-*💻 Passionate about **Python, C++, SQL, and Web Development**.
-*📚 Strengthening my problem-solving skills through **Data Structures & Algorithms**.
-*🤖 Exploring the exciting world of **Artificial Intelligence, Machine Learning, and Data Science**.
-*🌍 Aspiring **Open Source Contributor**, eager to collaborate, learn from the community, and contribute to meaningful projects.
-*✨ Believer in consistency, curiosity, and lifelong learning.
+* 🌱 Currently mastering **Data Science**.
+* 💻 Passionate about **Python, C++, SQL, and Web Development**.
+* 📚 Strengthening my problem-solving skills through **Data Structures & Algorithms**.
+* 🤖 Exploring the exciting world of **Artificial Intelligence, Machine Learning, and Data Science**.
+* 🌍 Aspiring **Open Source Contributor**, eager to collaborate, learn from the community, and contribute to meaningful projects.
+* ✨ Believer in consistency, curiosity, and lifelong learning.
 
 
 ## 🛠️ Tech Stack:
